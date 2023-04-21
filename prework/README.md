@@ -17,9 +17,9 @@ If you are testing in, and don't yet have an Ops Lab Kit, ensure you get one del
 
 ## Complete Prework Assignments
 
-- [Purchase Study Guide](https://codefellows.github.io/ops-201-guide/curriculum/prework/acquire-ITF-study-guide){:target="_blank"}
-- [Purchase CompTIA ITF+ Voucher](https://codefellows.github.io/ops-201-guide/curriculum/prework/purchase-ITF-voucher){:target="_blank"}
-- [Schedule CompTIA ITF+ Exam](https://codefellows.github.io/ops-201-guide/curriculum/prework/schedule-ITF-certification){:target="_blank"} once you have received your voucher.
-- [Setup Your Google](https://codefellows.github.io/ops-301-guide/curriculum/prework/setup-your-google){:target="_blank"}
-- [Setup Your Accounts](https://codefellows.github.io/ops-201-guide/curriculum/prework/setup-your-accounts){:target="_blank"}, if you haven't already.
-- [Setup Your Lab Environment](https://codefellows.github.io/ops-201-guide/curriculum/prework/setup-your-lab-environment){:target="_blank"}
+- [Purchase Study Guide](./acquire-ITF-study-guide){:target="_blank"}
+- [Purchase CompTIA ITF+ Voucher](./purchase-ITF-voucher){:target="_blank"}
+- [Schedule CompTIA ITF+ Exam](./schedule-ITF-certification){:target="_blank"} once you have received your voucher.
+- [Setup Your Google](/ops-301-guide/curriculum/prework/setup-your-google){:target="_blank"}
+- [Setup Your Accounts](./prework/setup-your-accounts){:target="_blank"}, if you haven't already.
+- [Setup Your Lab Environment](./setup-your-lab-environment){:target="_blank"}
