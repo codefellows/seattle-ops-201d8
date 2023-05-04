@@ -12,14 +12,7 @@ A new employee has been hired. According to company SOP, you are to deploy their
 - Department: Sales
 - Start date: Three days from today
 - Hardware (VM) required: Desktop PC with a second internal hard drive for data backup purposes
-- Software or services required
-  - Windows 10 Pro OS
-    - Password-protected local user profile with name consisting of first initial, period, last name (e.g. "j.smith" for John Smith)
-  - Email Account
-  - Thunderbird client connected to email account
-    - Company signature applied to Thunderbird consisting of Name, Job Title, and Dept.
-  - RDP access granted for both Admin account and new hire
-  - [Foxit Phantom PDF Reader](https://www.foxit.com/pdf-reader/){:target="_blank"} installed and defaulted for .pdf files
+- You are to follow the [SOP: New Employee Computer and Email Configuration](./SOP-new-employee.md).
 
 ## Objectives
 

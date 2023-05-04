@@ -42,7 +42,7 @@ Before starting the setup process, the following prerequisites must be met:
 1. Allow the new hire's user profile to RDP into this computer.
 1. Add a second hard drive to the computer.
 1. Configure and initialize the second hard drive for the new hire to use.
-1. Configure RDP to allow IT to remotely manage the computer from the Admin account.
+1. Configure RDP access for both IT and the user.
 
 ### Email Account Setup:
 
