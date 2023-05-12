@@ -1,4 +1,4 @@
-# Repo and Tooling
+# Repo and Presentation Slides
 
 Today we will create your project repo and setup your tooling for project management.
 
@@ -10,31 +10,47 @@ The name of the org and the repo should be **resume-ready**. Use the the problem
 
 > This project may well be a key piece of your resume. Potential employers will be looking at this project and it’s documentation. Name it accordingly.
 
-## Build your repos:
+## Build your repos and README files:
 
-1. Create a repo to link the Team Agreement doc, System Selection doc, topologies/visuals, SOP docs and the slideshow.
-  - Create a basic `README.md` file within this repo that contains the names of all the members as well as a description of the project.
-  - The `README.md` file should be attractively formatted and include links to each of your GitHub and LinkedIn profiles.
-  - Link the PM tool your team is using to manage tasks.
-  - On this `README.md` file, label and link all SOPs.
-    - For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member.
-    - SOPs can either be:
-      - Worked on as Google Docs and committed as PDFs.
+Create all the repos and `README.md` files you will need for your project.
+
+By the end of you project, your organization and repos should include the following:
+
+1. Create a basic `README.md` file for your organization that contains the names of all the members as well as a description of the project.
+  - The `README.md` file should be attractively formatted and include:
+    - Links to each of your GitHub and LinkedIn profiles.
+    - Links to all other repos containing project material.
+1. Create a repo for Presentation and Project Organization materials:
+  - Include a PDF of your slideshow as files in the repo.
+  - In the `README.md` file, include:
+    - Links to the Team Agreement doc and System Selection doc.
+    - Link to the PM tool your team is using to manage tasks.
+    - Links and explanations for any files in the repo (such as the PDF of your slideshow).
+1. Create a repo for any documentation (such as SOPs, network topologies, etc.):
+  - Include all required documentation as files in the repo.
+    - Written documentation can either be:
+      - Worked on as Google Docs and committed to the repo as PDFs.
       - Worked on and committed as Markdown files.
-  - Commit topology images and other visuals to the repo and link them on the `README.md` file.
-  - Include any relevant information required for the operation of the demonstrated system.
-    - Any config files which you created or customized, exported in an appropriate format (such as json)
-  - When completed, export the slide deck as a PDF, commit it to the repo and link it to the `README.md` file.
-  - When it becomes available, link the recording of your presentation.
-1. Create any additional repos for each individual script.
-  - Create a basic `README.md` file within the repo that contains the names of all the members and a description of the script including the WHAT and WHY.
-    - Please list any resources or references used in creating the script here as well.
-  - Commit the script in it’s own file and link it to the `README.md` file.
-    - Don’t forget to leave comments in your code!
+    - See the Project Requirements for details on what documentation your instructor is expecting.
+    - System topologies and other visuals should be include as either image files or PDFs.
+      - In the case of topologies, include the raw topology files (for instance, if using Draw.io, include the `.drawio` files).
+    - Include any relevant information required for the operation of the demonstrated system.
+  - On the `README.md` file, label and link all written and visual documentation.
+1. Create a repo for any scripts you create in the course of your project.
+  - Include any scripts specified in the Project Requirements document, and any other scripts and tools you create along the way. 
+  - All scripts should:
+    - Be properly formatted.
+    - Include header documentation including authorship, script name, purpose, and date.
+    - Have the appropriate file extension in the file name.
+  - Create a basic `README.md` file within the repo that contains links to each script. For each script, also include:
+    - The names of all the members who contributed to the script.
+    - A description of the script including the WHAT and WHY.
+    - Any resources or references used in creating the script here as well.
+
 
 ## Project Management Tools
 
-Make sure everyone, including your grader and the audience, has access and correct permissions to the tool you are using. Link your Project Management tool in the documentation repo on GitHub.
+Make sure everyone has access and correct permissions to the tool you are using.
 
 Please use one of these tools listed below:
 
@@ -52,7 +68,7 @@ Make a single copy of the [Presentation Deck Template](https://docs.google.com/p
 
 Link the shared doc in your PM tool.
 
-The presentation should follow exactly from the [template slide deck](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31){:target="_blank"}. Ensure your timing is no more than 15 minutes long, including some time at the end for questions.
+The presentation should follow exactly from the [template slide deck](https://docs.google.com/presentation/d/1iv8uB6H0P49RN9IF6cYA5lpfiuL4WBGQqcbEu6Q4JAA/edit#slide=id.g8526846ab1_1_5){:target="_blank"}. Ensure your timing is no more than 15 minutes long, including some time at the end for questions.
 
 Each member should introduce themselves with their personal pitch.
 

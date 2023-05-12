@@ -16,12 +16,12 @@ Start a new Google Doc, and include the following components in your system sele
   - List all team members full names at the top of the doc.
   - Copy and paste your team’s scenario into the doc with a header.
 
-## Scenario, Guidlines, and Requirements
+## Scenario and Requirements
 
 Your instructor will provide the project guidelines and send you the scenario unique to your team. Some aspects of the project are left up to you to decide how to approach.
 
-- [201 Project Guidelines](../class-15/project-guidelines.md)
 - Specific scenarios will be sent to you by your instructor.
+- [201 Project Requirements](../class-15/project-requirements.md)
 
 ## Systems Selection
 
@@ -38,6 +38,8 @@ Create a high-level list of systems, platforms, or tools you’re going to imple
 During your pitch, your instructor will help you scope your project. Some features may become MVP and some may become stretch goals.
 
 Once you are ready, find your instructor and pitch your solution ideas.
+
+> Scope creep can be dangerous! Keeping your project within a pre-determined scope will help the group stay on task without going off on tangents and side features.
 
 ## Submitting your work
 
