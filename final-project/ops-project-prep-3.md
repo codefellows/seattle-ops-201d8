@@ -26,6 +26,7 @@ By the end of you project, your organization and repos should include the follow
     - Links to the Team Agreement doc and System Selection doc.
     - Link to the PM tool your team is using to manage tasks.
     - Links and explanations for any files in the repo (such as the PDF of your slideshow).
+    - A link to the video of your presentation (when it becomes available).
 1. Create a repo for any documentation (such as SOPs, network topologies, etc.):
   - Include all required documentation as files in the repo.
     - Written documentation can either be:
