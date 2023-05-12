@@ -23,14 +23,6 @@ Your job is to prepare a technical demonstration of how you will meet the given 
 
 Regardless of the specific needs of your customer, your proposal should include the following aspects and solutions:
 
-### Customized image based OS install:
-  - Preconfigure the OS to your liking:
-    - Remove bloatware, unnecessary applications.
-    - Optimize boot time.
-    - Include applications useful to your clients.
-  - Create an ISO image and use it to set up an new endpoint.
-  - Stretch Goal: implement a PXE network boot solution for managing images and provisioning new OSs.
-
 
 ### User provisioning:
   - Setup a single endpoint as you would for a new user:
@@ -84,8 +76,8 @@ Components of the presentation must include:
   * One interesting/fun fact about yourself
   * Your career ambitions (where you've been, where you're going, and why)
 * Topical Overview (5 min)
- * As the "Problem Domain", describe the project scenario you were assigned and the overall client requirements.
- * What solutions to the problem domain will your team be presenting today? Why did you choose these solutions?
+  * As the "Problem Domain", describe the project scenario you were assigned and the overall client requirements.
+  * What solutions to the problem domain will your team be presenting today? Why did you choose these solutions?
 * Present live technical demonstrations
   * All team members must present an equal share of the live technical demonstrations.
   * The presentation consists of a full provisioning demonstration of a computer system, as well as key operations.
@@ -138,8 +130,8 @@ Components of the presentation must include:
     - SOPs should share a common format (see [SOP-example-template](./SOP-example-template.md))
     * Compose thorough SOPs for each of the following:
       * How will you backup and restore user data, critical infrastructure configurations and hosted data?
-     * How will you securely dispose of sensitive data from storage media?
-     * How will you perform the support engagements/interactions?
+      * How will you securely dispose of sensitive data from storage media?
+      * How will you perform the support engagements/interactions?
       * What troubleshooting methodology will your technicians follow during support engagements?
       * How will user or department technology purchase requests be handled?
       * How will technology needs be handled for employees being onboarded?
