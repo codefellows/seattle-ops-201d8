@@ -65,7 +65,7 @@ Describe at least:
 
 ## Conflict Plan
 
-Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
+Your team should agree on a process for handling disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
 
 Describe at least:
   - What will be your group's process to resolve conflict, when it arises?
