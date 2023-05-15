@@ -20,8 +20,7 @@ For this assignment, populate the project management tool you chose in Prep #3 w
   - Stretch goals (objectives to achieve if time allows).
 
 Reference the Project Guidelines for specific project requirements.
-
-- [201 Stretch Goals](./201/stretch-goals.md)
+- [201 Project Requirements](../class-15/project-requirements.md)
 
 ## System Diagrams
 
@@ -37,7 +36,7 @@ Fill in your PM Tool with SOPs that need to be written, then evenly distribute t
     - Worked on as Google Docs and committed as PDFs in the documentation repo on the GitHub Org.
     - Worked on and committed as Markdown files in the documentation repo on the GitHub Org.
 
-- [201 SOP Requirements](./201/SOPs.md)
+- [201 Deliverables Requirements](../class-15/project-requirements.md#deliverables-50)
 
 ## Submitting Your Work
 
