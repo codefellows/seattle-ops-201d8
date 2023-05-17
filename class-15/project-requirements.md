@@ -123,7 +123,7 @@ Components of the presentation must include:
       - References
       - Definitions
       - Revision History (including who contributed to each revision)
-    - For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member
+    - For **each** SOP, attribute authorship to the team member
     - SOPs can either be:
       - Worked on as google docs and submitted as PDFs
       - Worked on and submitted as Markdown files
