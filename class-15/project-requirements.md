@@ -141,12 +141,12 @@ Components of the presentation must include:
       * How will you administer and support Windows systems?
       * How will your company enhance the network’s usability and security?
       * How will you support company cloud services?
-  * Scripts:
-    * Include any Scripts written in the course of the project.
-  * Systems Documentation:
-    * Include in your deliverable any relevant information required for the operation of the demonstrated system.
-      * Any config files which you created or customized, exported in an appropriate format (such as json)
-    * Network Topology
+* Scripts:
+  * Include any Scripts written in the course of the project.
+* Systems Documentation:
+  * Include in your deliverable any relevant information required for the operation of the demonstrated system.
+    * Any config files which you created or customized, exported in an appropriate format (such as json)
+  * Network Topology
 
 
 
